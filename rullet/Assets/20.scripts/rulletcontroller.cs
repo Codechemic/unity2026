@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class rulletcontroller : MonoBehaviour
 {
+    float startSpeed = 30f;
+    float decreaseRatio = 0.99f;
     float rotSpeed = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -12,11 +14,14 @@ public class rulletcontroller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    
         if (Input.GetMouseButtonDown(0))
         {
-            rotSpeed = 10f;
+            rotSpeed = startSpeed;
         }
 
         transform.Rotate(0, 0, rotSpeed);
+
+        rotSpeed *= decreaseRatio;
     }
 }

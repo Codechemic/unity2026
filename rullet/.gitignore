@@ -20,3 +20,17 @@ UserSettings/
 *.mdb
 *.opendb
 *.VC.db
+# Mobile build files
+*.apk
+*.aab
+*.ipa
+
+# iOS build folder
+*.xcworkspace
+*.xcodeproj
+
+# Unity build output (추가 추천)
+Build/
+Builds/
+
+Assets/90.Downloads/
