@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF092B4A-70B0-DE27-DD82-BBA5C9824E02}|Assembly-CSharp.csproj|d:\\ksj\\java\\2024javagithub\\unity2026\\ch04\\assets\\scripting\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF092B4A-70B0-DE27-DD82-BBA5C9824E02}|Assembly-CSharp.csproj|D:\\ksj\\Java\\2024javagithub\\unity2026\\ch04\\assets\\scripting\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF092B4A-70B0-DE27-DD82-BBA5C9824E02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripting\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF092B4A-70B0-DE27-DD82-BBA5C9824E02}|Assembly-CSharp.csproj|d:\\ksj\\java\\2024javagithub\\unity2026\\ch04\\assets\\scripting\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF092B4A-70B0-DE27-DD82-BBA5C9824E02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripting\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gamemanager.cs",
+              "DocumentMoniker": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch04\\Assets\\scripting\\gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripting\\gamemanager.cs",
+              "ToolTip": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch04\\Assets\\scripting\\gamemanager.cs",
+              "RelativeToolTip": "Assets\\scripting\\gamemanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T05:20:00.675Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Assets\\scripting\\carcontroller.cs",
               "ToolTip": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch04\\Assets\\scripting\\carcontroller.cs",
               "RelativeToolTip": "Assets\\scripting\\carcontroller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T01:32:10.178Z",
               "EditorCaption": ""
