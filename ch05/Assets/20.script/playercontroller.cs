@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using UnityEngine;
 
 public class playercontroller : MonoBehaviour
@@ -10,15 +11,21 @@ public class playercontroller : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    //    if(Input.GetKey(KeyCode.LeftArrow))
+    //    {
+    //        transform.Translate(-speed, 0, 0);
+    //    }
+    //    if(Input.GetKey(KeyCode.RightArrow))
+    //    {
+    //        transform.Translate(speed, 0, 0);
+    //    }
+    //}
+    public void LButtonDown()
     {
-        if(Input.GetKey(KeyCode.LeftArrow))
-        {
-            transform.Translate(-speed, 0, 0);
-        }
-        if(Input.GetKey(KeyCode.RightArrow))
-        {
-            transform.Translate(speed, 0, 0);
-        }
+        transform.Translate(-speed, 0, 0);
     }
-}
+
+    public void RButtonDown()
+    {
+        transform.Translate(speed, 0, 0);
+    }

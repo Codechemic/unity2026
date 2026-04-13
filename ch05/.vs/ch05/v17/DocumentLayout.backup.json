@@ -1,12 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|d:\\ksj\\java\\2024javagithub\\unity2026\\ch05\\assets\\20.script\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|solutionrelative:assets\\20.script\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\assets\\20.script\\gamedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|solutionrelative:assets\\20.script\\gamedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\assets\\20.script\\arrowgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|solutionrelative:assets\\20.script\\arrowgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\assets\\20.script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ACD9F6-49EB-8352-FD3A-07897B54BEC6}|Assembly-CSharp.csproj|solutionrelative:assets\\20.script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gamedirector.cs",
+              "DocumentMoniker": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\gamedirector.cs",
+              "RelativeDocumentMoniker": "Assets\\20.script\\gamedirector.cs",
+              "ToolTip": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\gamedirector.cs",
+              "RelativeToolTip": "Assets\\20.script\\gamedirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:25:44.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arrowgenerator.cs",
+              "DocumentMoniker": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\arrowgenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\20.script\\arrowgenerator.cs",
+              "ToolTip": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\arrowgenerator.cs",
+              "RelativeToolTip": "Assets\\20.script\\arrowgenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:02:24.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "playercontroller.cs",
+              "DocumentMoniker": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\playercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\20.script\\playercontroller.cs",
+              "ToolTip": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\playercontroller.cs",
+              "RelativeToolTip": "Assets\\20.script\\playercontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T00:12:36.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrowcontroller.cs",
+              "DocumentMoniker": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\arrowcontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\20.script\\arrowcontroller.cs",
+              "ToolTip": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch05\\Assets\\20.script\\arrowcontroller.cs",
+              "RelativeToolTip": "Assets\\20.script\\arrowcontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T00:12:29.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
