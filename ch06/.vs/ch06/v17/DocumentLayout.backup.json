@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69DB7B4-2C37-8E65-35A3-664444284E91}|Assembly-CSharp.csproj|d:\\ksj\\java\\2024javagithub\\unity2026\\ch06\\assets\\scripts\\catmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69DB7B4-2C37-8E65-35A3-664444284E91}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\catmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "catmove.cs",
+              "DocumentMoniker": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch06\\Assets\\scripts\\catmove.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\catmove.cs",
+              "ToolTip": "D:\\ksj\\Java\\2024javagithub\\unity2026\\ch06\\Assets\\scripts\\catmove.cs",
+              "RelativeToolTip": "Assets\\scripts\\catmove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T06:00:27.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
