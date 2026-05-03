@@ -54,4 +54,9 @@ public class catmove : MonoBehaviour
             }
         }
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("끝");
+    }
 }
