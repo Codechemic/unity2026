@@ -1,62 +1,70 @@
 using UnityEngine;
+using UnityEngine.SceneManagement; // LoadScene을 사용하는 데 필요하다.
 
-public class catmove : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    public float jumpforce = 100f;
-    public float walkforce = 30f;
-    public float maxwalkspeed = 2f;
+    Rigidbody2D rigid2D;
+    float jumpForce = 200.0f;
+    float walkForce = 30;
+    float maxWalkSpeed = 2.0f;
 
-    public Sprite[] walksprites;
-    public float animationperiod = 0.1f;
-    public Sprite[] jumpsprite;
+    public Sprite[] walkSprites;
+    public Sprite jumpSprite;
 
     float time = 0;
     int idx = 0;
 
-    SpriteRenderer sr;
-    Rigidbody2D rb;
+    SpriteRenderer spriteRenderer;
 
     void Start()
     {
         Application.targetFrameRate = 60;
-        rb = GetComponent<Rigidbody2D>();
-        sr = GetComponent<SpriteRenderer>();
+        this.rigid2D = GetComponent<Rigidbody2D>();
+        this.spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
-        // 점프
-        if (Input.GetMouseButtonDown(0))
+        // 점프한다.
+        if (Input.GetMouseButtonDown(0) && this.rigid2D.linearVelocityY == 0)
         {
-            rb.AddForce(transform.up * jumpforce);
+            this.rigid2D.AddForce(transform.up * this.jumpForce);
         }
 
-        // 이동
-        if (rb.linearVelocity.x < maxwalkspeed)
+        // 오른쪽으로 이동한다.
+        if (this.rigid2D.linearVelocityX < this.maxWalkSpeed)
         {
-            rb.AddForce(transform.right * walkforce);
+            this.rigid2D.AddForce(transform.right * walkForce);
         }
 
-        // 점프 중
-        if (rb.linearVelocity.y != 0)
+        // 애니메이션
+        if (this.rigid2D.linearVelocityY != 0)
         {
-            sr.sprite = jumpsprite[0];
+            this.spriteRenderer.sprite = this.jumpSprite;
         }
         else
         {
-            time += Time.deltaTime;
+            this.time += Time.deltaTime;
 
-            if (time > animationperiod)
+            if (this.time > 0.1f)
             {
-                time = 0;
-                sr.sprite = walksprites[idx];
-                idx = 1 - idx;
+                this.time = 0;
+                this.spriteRenderer.sprite = this.walkSprites[this.idx];
+                this.idx = 1 - this.idx;
             }
+        }
+
+        // 플레이어가 화면 밖으로 나가면 처음부터
+        if (transform.position.y < -10)
+        {
+            SceneManager.LoadScene("GameScene");
         }
     }
 
+    // 골 도착
     void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("끝");
+        Debug.Log("골");
+        SceneManager.LoadScene("ClearScene");
     }
 }
