@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ab67632b05fb7d346abf0bb8b5dbdd24
+guid: dadbcb94d0648cd45853fddbf4470783
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5729762790436766625
-    second: "\uB2E4\uC6B4\uB85C\uB4DC (4)_0"
+      213: -7477192630708466740
+    second: catWalkB_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\uB2E4\uC6B4\uB85C\uB4DC (4)_0"
+      name: catWalkB_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 225
-        height: 225
+        x: 16
+        y: 6
+        width: 65
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a30c3b76e4348f40800000000000000
-      internalID: 5729762790436766625
+      spriteID: ccb04711becab3890800000000000000
+      internalID: -7477192630708466740
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\uB2E4\uC6B4\uB85C\uB4DC (4)_0": 5729762790436766625
+      catWalkB_0: -7477192630708466740
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
