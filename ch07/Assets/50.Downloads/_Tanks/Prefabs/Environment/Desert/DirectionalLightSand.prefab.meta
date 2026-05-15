@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8920a298e2a7a1c4496969c7dcd6d3df
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/Environment/Desert/DirectionalLightSand.prefab
+  uploadId: 779802

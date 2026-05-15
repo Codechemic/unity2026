@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2f5d46917317d248adb0bff3f9fe8e3
+timeCreated: 1431510763
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Art/Animators/CompletePumpjack.controller
+  uploadId: 779802

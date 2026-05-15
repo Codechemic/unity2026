@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e98350ad334fc74bb66aa1bf16fc2e1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  uploadId: 779802

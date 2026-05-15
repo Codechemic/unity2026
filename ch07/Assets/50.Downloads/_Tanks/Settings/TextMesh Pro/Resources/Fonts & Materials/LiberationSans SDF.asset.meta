@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a68f843e210e9894081094277bb353b7
+timeCreated: 1484171803
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+    SDF.asset
+  uploadId: 779802

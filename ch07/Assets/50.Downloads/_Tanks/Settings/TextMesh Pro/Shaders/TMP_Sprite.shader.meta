@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54a0f6a42baccc44d81d07d7e09b1a37
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/TextMesh Pro/Shaders/TMP_Sprite.shader
+  uploadId: 779802

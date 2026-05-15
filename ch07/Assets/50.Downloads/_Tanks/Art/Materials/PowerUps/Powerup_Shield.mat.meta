@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84a3d22286496b14a830e52ca27818c5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Art/Materials/PowerUps/Powerup_Shield.mat
+  uploadId: 779802

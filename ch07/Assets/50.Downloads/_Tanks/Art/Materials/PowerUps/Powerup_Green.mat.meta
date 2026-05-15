@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4fe11be7bc5dc934190b69d8e60597f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Art/Materials/PowerUps/Powerup_Green.mat
+  uploadId: 779802

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 826c938ef6bf3454ca32413211b949a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/PowerUps/Indicators/TemporaryInvincibilityIndicator.prefab
+  uploadId: 779802

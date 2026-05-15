@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c611caca70e45e64886c87cb02cd18c9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/UI/PauseMenu.prefab
+  uploadId: 779802

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f245ba164570694408c361e22766325d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Scripts/Tank/TankInputUser.cs
+  uploadId: 779802

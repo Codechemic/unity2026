@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 129ff5825c71bb24880b4d5a8d2fd8f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/Environment/Moon/HelipadMoon.prefab
+  uploadId: 779802

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd992f2d2d3f46542afc64e17ebf6b2a
+timeCreated: 1425440388
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/TextMesh Pro/Resources/LineBreaking Following
+    Characters.txt
+  uploadId: 779802

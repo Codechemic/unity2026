@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc1122981db93e64f9144d75a64c77e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/Environment/Desert/GroundSand.prefab
+  uploadId: 779802

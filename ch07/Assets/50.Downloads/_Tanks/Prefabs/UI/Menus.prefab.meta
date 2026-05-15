@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b1cddd7337db2d4c8ccb7b22442a10e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/UI/Menus.prefab
+  uploadId: 779802

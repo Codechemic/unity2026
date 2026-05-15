@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 158bb5f98b7e64c4e8579e953e329a15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Art/Materials/Particles/Particle_Dust_Grass.mat
+  uploadId: 779802

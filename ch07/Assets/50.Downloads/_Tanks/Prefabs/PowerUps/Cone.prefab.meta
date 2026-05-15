@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3beae0a3286a6ad4a99aa1dc674ddaa9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/PowerUps/Cone.prefab
+  uploadId: 779802

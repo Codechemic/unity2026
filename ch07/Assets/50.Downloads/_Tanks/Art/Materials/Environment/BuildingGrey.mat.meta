@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1663fe560bb843f4cbf6d80b05f0322b
+timeCreated: 1431084896
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Art/Materials/Environment/BuildingGrey.mat
+  uploadId: 779802

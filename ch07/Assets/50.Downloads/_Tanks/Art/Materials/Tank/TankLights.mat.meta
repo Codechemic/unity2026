@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcd091ea6799b9048bd2fe0841ca1a21
+timeCreated: 1426767120
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Art/Materials/Tank/TankLights.mat
+  uploadId: 779802

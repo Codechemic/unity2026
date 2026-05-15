@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7e0f1d0b5ff9c842ba9afe6b731c0d9
+timeCreated: 1436653997
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/TextMesh Pro/Resources/TMP Settings.asset
+  uploadId: 779802

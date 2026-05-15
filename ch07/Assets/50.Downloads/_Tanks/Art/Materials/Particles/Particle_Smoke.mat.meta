@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43b6332f957745f43861b7406995c7c8
+timeCreated: 1427899090
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Art/Materials/Particles/Particle_Smoke.mat
+  uploadId: 779802

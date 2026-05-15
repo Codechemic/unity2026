@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1de859ce9d85bbf49a7c283c60ba755a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/Environment/Miscellaneous/BustedTank.prefab
+  uploadId: 779802

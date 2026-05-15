@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a39a3728a0222b24eb56d8f261a419ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/Environment/Desert/HelipadSand.prefab
+  uploadId: 779802

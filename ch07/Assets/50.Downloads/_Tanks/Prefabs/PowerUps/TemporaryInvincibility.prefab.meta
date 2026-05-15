@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e172451f56faa14cb3a84d509b840ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/PowerUps/TemporaryInvincibility.prefab
+  uploadId: 779802

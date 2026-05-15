@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcc6f4c23850e3340b561578c6e547a3
+timeCreated: 1475837436
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Tutorial_Demo/Demo_Scenes/Demo_Game_Jungle.unity
+  uploadId: 779802

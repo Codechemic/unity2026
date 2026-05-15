@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ada7353ba3a85148b3a708ccbc3653d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/PowerUps/Indicators/EnhanchedShootingIndicator.prefab
+  uploadId: 779802

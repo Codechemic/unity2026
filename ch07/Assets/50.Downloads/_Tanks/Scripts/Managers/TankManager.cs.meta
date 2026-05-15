@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fea6ed344ea109543b0a165ed3da751d
+timeCreated: 1427196082
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Scripts/Managers/TankManager.cs
+  uploadId: 779802

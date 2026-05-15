@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e420b8ea7c09f642b5d4c5ed1eb59ea
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+  uploadId: 779802

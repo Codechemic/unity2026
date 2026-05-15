@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09b9e236d644f2a439d4e8b127f6cf60
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/Environment/Moon/DirectionalLightMoon.prefab
+  uploadId: 779802

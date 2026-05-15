@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69566df3e7aa1b34c87291053c8d5367
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Settings/Profiles/UniversalRenderPipelineAsset.asset
+  uploadId: 779802

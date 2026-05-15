@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b92e5b6b854d12c4587a8af5db2a516b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/Environment/Moon/RadarSphereMoon.prefab
+  uploadId: 779802

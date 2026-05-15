@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43c13c1a875cd0f43be0f58b2489bc32
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/PowerUps/Indicators/HealingIndicator.prefab
+  uploadId: 779802
