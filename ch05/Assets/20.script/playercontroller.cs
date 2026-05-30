@@ -29,3 +29,4 @@ public class playercontroller : MonoBehaviour
     {
         transform.Translate(speed, 0, 0);
     }
+}
