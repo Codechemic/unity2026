@@ -7,7 +7,6 @@ public class Player : MonoBehaviour
     Animator anim;
 
     Vector3 moveDirection;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody>();
@@ -33,7 +32,7 @@ public class Player : MonoBehaviour
             moveDirection.Normalize();
             anim.SetBool("isWalking", true);
 
-            //transform.forward = moveDirection; // Rotation
+            //transform.forward = moveDirection;
             rb.MovePosition(rb.position + moveDirection*moveSpeed*Time.deltaTime);
             
 

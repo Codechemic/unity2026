@@ -6,7 +6,6 @@ public class arrowgenerator : MonoBehaviour
     float span = 1.0f;
     float delta = 0f;
 
-    // Update is called once per frame
     void Update()
     {
         delta += Time.deltaTime;

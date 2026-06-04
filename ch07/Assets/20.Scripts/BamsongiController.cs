@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class BamsongiController : MonoBehaviour
 {
-    //public Renderer renderer;
     void Start()
     {
         Application.targetFrameRate = 60;

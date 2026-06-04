@@ -14,7 +14,6 @@ public class arrowcontroller : MonoBehaviour
         player = GameObject.Find("player");
         director = GameObject.Find("gamedirector");
     }
-    // Update is called once per frame
     void Update()
     {
         transform.Translate(0, -dropspeed, 0);
