@@ -17,7 +17,7 @@ public class ItemGenerator : MonoBehaviour
             currentItem = Instantiate(applePrefab);
             float x = Random.Range(-13, 14);
             float z = Random.Range(-13, 14);
-            currentItem.transform.position = new Vector3(x, 7, z);
+            currentItem.transform.position = new Vector3(x, 30, z);
             delta = 0;
         }
     }

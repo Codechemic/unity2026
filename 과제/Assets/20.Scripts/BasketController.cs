@@ -3,18 +3,17 @@ using UnityEngine;
 public class BasketController : MonoBehaviour
 {
     public float moveSpeed = 5.0f;
-    public AudioClip appleSE;
-    public AudioClip bombSE;
+    public float jumpForce = 300f;
 
     Rigidbody rb;
-    AudioSource aud;
     Vector3 moveDirection;
+    GameObject director;
 
     void Start()
     {
         Application.targetFrameRate = 60;
         rb = GetComponent<Rigidbody>();
-        aud = GetComponent<AudioSource>();
+        director = GameObject.Find("GameDirector");
     }
 
     void Update()
@@ -30,9 +29,9 @@ public class BasketController : MonoBehaviour
             rb.MovePosition(rb.position + moveDirection * moveSpeed * Time.deltaTime);
         }
 
-        if(Input.GetKeyDown(KeyCode.Space))
+        if(Input.GetKeyDown(KeyCode.Space) && rb.linearVelocity.y == 0)
         {
-            // 스페이스바 동작을 여기에 작성
+            rb.AddForce(transform.up * jumpForce);
         }
     }
 
@@ -40,12 +39,8 @@ public class BasketController : MonoBehaviour
     {
         if(other.gameObject.tag == "Apple")
         {
-            aud.PlayOneShot(appleSE);
+            director.GetComponent<GameDirector>().GetApple();
         } 
-        else if(other.gameObject.tag == "Bomb")
-        {
-            aud.PlayOneShot(bombSE);
-        }
         Destroy(other.gameObject);
     }
 }
