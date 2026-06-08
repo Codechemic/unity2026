@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ItemController : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class ItemController : MonoBehaviour
         transform.Translate(0, dropSpeed * Time.deltaTime, 0);
         if(transform.position.y < -5f)
         {
+            SceneManager.LoadScene("EndScene");
             Destroy(gameObject);
         }
     }
